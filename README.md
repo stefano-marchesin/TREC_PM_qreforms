@@ -1,7 +1,7 @@
 ### An Analysis of Query Reformulation Techniques for Precision Medicine
 
 Runs used to perform experiments and analyses for the paper  
-``An Analysis of Query Reformulation Techniques for Precision Medicine`` 
+``An Analysis of Query Reformulation Techniques for Precision Medicine``  
 by M. Agosti, G.M. Di Nunzio, and S. Marchesin 
 
 If you use data contained in this repository please cite:
