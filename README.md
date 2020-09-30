@@ -1,6 +1,6 @@
 ### Knowledge-Enhanced Query Reformulations
 
-Runs used to perform experiments and analyses for different studies conducted on TREC PM 2017-2019 Tracks. Each folder within `runs' represents a different study or analysis, and has been published in one of the publications reported below. If you use the runs of this repository, please cite the corresponding publication(s).
+Runs used to perform experiments for different studies and analyses conducted on TREC PM 2017-2019 Tracks. Each folder within `runs' represents a different study or analysis, and has been published in one of the publications reported below. If you use the runs of this repository, please cite the corresponding publication(s).
 
 ## References 
 1. Preliminary study: Maristella Agosti, Giorgio Maria Di Nunzio, and Stefano Marchesin. 2018. The University of Padua IMS Research Group at TREC 2018 Precision Medicine Track. Proceedings of the 27th Text REtrieval Conference (TREC 2018), pp. 1-10. 
