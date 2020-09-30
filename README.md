@@ -1,16 +1,10 @@
-### An Analysis of Query Reformulation Techniques for Precision Medicine
+### Knowledge-Enhanced Query Reformulations
 
-Runs used to perform experiments and analyses for the paper  
-``An Analysis of Query Reformulation Techniques for Precision Medicine``  
-by M. Agosti, G.M. Di Nunzio, and S. Marchesin 
+Runs used to perform experiments and analyses for different studies conducted on TREC PM 2017-2019 Tracks. Each folder within `runs' represents a different study or analysis, and has been published in one of the publications reported below. If you use the runs of this repository, please cite the corresponding publication(s).
 
-If you use data contained in this repository please cite:  
-@inproceedings{agosti2019analysis,  
-   title={An Analysis of Query Reformulation Techniques for Precision Medicine},  
-   author={Agosti, Maristella and Di Nunzio, Giorgio Maria and Marchesin, Stefano},  
-   booktitle={Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval},   
-   pages={973--976},  
-   year={2019},  
-   organization={ACM}  
-}
-
+## References 
+1. Preliminary study: Maristella Agosti, Giorgio Maria Di Nunzio, and Stefano Marchesin. 2018. The University of Padua IMS Research Group at TREC 2018 Precision Medicine Track. Proceedings of the 27th Text REtrieval Conference (TREC 2018), pp. 1-10. 
+2. In-depth analysis: Maristella Agosti, Giorgio Maria Di Nunzio, and Stefano Marchesin. 2019. An Analysis of Query Reformulation Techniques for Precision Medicine. Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2019), pp. 973-976.
+3. Validation study: Giorgio Maria Di Nunzio, Stefano Marchesin, and Maristella Agosti. 2019. Exploring how to Combine Query Reformulations for Precision Medicine. Proceedings of the 28th Text REtrieval Conference (TREC 2019), pp. 1-14.
+4. Post Analysis: Maristella Agosti, Giorgio Maria Di Nunzio, and Stefano Marchesin. 2020. A PostAnalysis of Query Reformulation Methods for Clinical Trials Retrieval. Proceedings
+of the 28th Italian Symposium on Advanced Database Systems (SEBD 2020), pp. 152-159.
