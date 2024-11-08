@@ -8,3 +8,4 @@ Runs used to perform experiments for different studies and analyses conducted on
 3. **Validation study:** Giorgio Maria Di Nunzio, Stefano Marchesin, and Maristella Agosti. 2019. Exploring how to Combine Query Reformulations for Precision Medicine. Proceedings of the 28th Text REtrieval Conference (TREC 2019), pp. 1-14.
 4. **Post-Analysis:** Maristella Agosti, Giorgio Maria Di Nunzio, and Stefano Marchesin. 2020. A Post-Analysis of Query Reformulation Methods for Clinical Trials Retrieval. Proceedings
 of the 28th Italian Symposium on Advanced Database Systems (SEBD 2020), pp. 152-159.
+5. **Comprehensive analysis:** Stefano Marchesin, Giorgio Maria Di Nunzio, and Maristella Agosti. 2021. Simple but Effective Knowledge-Based Query Reformulations for Precision Medicine Retrieval. MDPI Information, Volume 12, Issue 10, Article 402, pp. 1-28.
